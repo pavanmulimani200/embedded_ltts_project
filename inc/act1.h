@@ -54,4 +54,4 @@ void LED_OFF();
  */
 int LED(void);
 
-#endif /* __ACT1.H__ */
+#endif /* __ACT1_H__ */
