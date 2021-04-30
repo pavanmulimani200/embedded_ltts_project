@@ -1,5 +1,5 @@
-#ifndef __ACT1.H__
-#define __ACT1.H__
+#ifndef __ACT1_H__
+#define __ACT1_H__
 /**
  * @file act1.h
  * @author Pavan B Mulimani(pavanmulimani200@gmail.com)
